@@ -1,4 +1,4 @@
-@import url('https://media.giphy.com/media/PkVHsFmmLeBfa/giphy.gif');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
 
 body {
   margin: 0;
@@ -32,7 +32,7 @@ nav a:hover {
 }
 
 .hero {
-  background: url('https://images.unsplash.com/photo-1558788353-f76d92427f16?auto=format&fit=crop&w=1350&q=80') no-repeat center center/cover;
+  background: url('https://media.giphy.com/media/PkVHsFmmLeBfa/giphy.gif') no-repeat center center/cover;
   height: 400px;
   display: flex;
   flex-direction: column;
